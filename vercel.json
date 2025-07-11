@@ -1,3 +1,9 @@
 {
-    "rootDirectory": "portfolio"
+    "rootDirectory": "portfolio",
+    "rewrites": [
+        {
+            "source": "/(.*)",
+            "destination": "/"
+        }
+    ]
 }
