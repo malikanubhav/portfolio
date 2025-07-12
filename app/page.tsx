@@ -5,9 +5,9 @@ import Work from "./components/Work";
 import ToolsSection from "./components/ToolsSection";
 import Exp from "./components/Exp";
 import Contact from "./components/Contact";
-export default function Home() {
 
-  
+
+export default function Home() {
   return (
     <>
         <Hero />
